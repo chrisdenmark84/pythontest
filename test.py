@@ -15,3 +15,9 @@ strign2 = "This is string 2."
 num1 = 10
 message = string1 + strign2 + str(num1)
 print(message)
+
+total = 0.00
+boots = 50.00
+shorts = 20.00
+total += boots + shorts
+print("Total price:" + total)
