@@ -20,7 +20,7 @@ total = 0.00
 boots = 50.00
 shorts = 20.00
 total += boots + shorts
-print("Total price:" + total)
+print("Total price:" + str(total))
 
 multiline_string = """Stranger, if you passing meet me and desire to speak to me, why
   should you not speak to me?
