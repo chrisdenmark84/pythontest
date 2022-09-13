@@ -1,2 +1,2 @@
-my_name = "James Bonds"
+my_name = "James Bond"
 print("Hello and welcome " + my_name + "!")
