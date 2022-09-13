@@ -21,3 +21,11 @@ boots = 50.00
 shorts = 20.00
 total += boots + shorts
 print("Total price:" + total)
+
+multiline_string = """Stranger, if you passing meet me and desire to speak to me, why
+  should you not speak to me?
+And why should I not speak to you?
+"""
+print(multiline_string)
+print("https://www.codecademy.com/resources/docs/python")
+print("https://www.codecademy.com/resources/docs/python")
