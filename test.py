@@ -10,3 +10,8 @@ float = 1.0
 print(25*68+13/28)
 # square stuff
 print(5 ** 2)
+string1 = "This is string 1 and "
+strign2 = "This is string 2."
+num1 = 10
+message = string1 + strign2 + str(num1)
+print(message)
